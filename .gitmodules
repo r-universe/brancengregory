@@ -1,4 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/brancengregory/brancengregory.r-universe.dev
 	branch = HEAD
+[submodule "ojodb"]
+	path = ojodb
+	url = https://github.com/openjusticeok/ojodb
