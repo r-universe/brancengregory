@@ -2,6 +2,6 @@
 	path = .registry
 	url = https://github.com/brancengregory/brancengregory.r-universe.dev
 	branch = HEAD
-[submodule "ojodb"]
-	path = ojodb
-	url = https://github.com/openjusticeok/ojodb
+[submodule "tidyverse"]
+	path = tidyverse
+	url = https://github.com/tidyverse/tidyverse
