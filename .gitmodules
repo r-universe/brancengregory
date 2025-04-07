@@ -5,6 +5,6 @@
 [submodule "startrackr"]
 	path = startrackr
 	url = https://github.com/brancengregory/startrackr
-[submodule "tidyverse"]
-	path = tidyverse
-	url = https://github.com/tidyverse/tidyverse
+[submodule "stringrs"]
+	path = stringrs
+	url = https://github.com/brancengregory/stringrs
