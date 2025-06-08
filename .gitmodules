@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "secretmanager"]
 	path = secretmanager
-	url = https://github.com/brancengregory/secretmanager
+	url = https://github.com/brancengregory/googlesecretmanager
 [submodule "startrackr"]
 	path = startrackr
 	url = https://github.com/brancengregory/startrackr
