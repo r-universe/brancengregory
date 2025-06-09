@@ -2,8 +2,8 @@
 	path = .registry
 	url = https://github.com/brancengregory/brancengregory.r-universe.dev
 	branch = HEAD
-[submodule "secretmanager"]
-	path = secretmanager
+[submodule "googlesecretmanager"]
+	path = googlesecretmanager
 	url = https://github.com/brancengregory/googlesecretmanager
 [submodule "startrackr"]
 	path = startrackr
